@@ -298,7 +298,7 @@ ORDER BY masa_salarial DESC;
 
 ## 👤 Autor
 
-**Rafael Milanes** — Ingeniero Industrial | Data Analyst
+**Rafael Milanes** — Ingeniero Industrial | Data Analyst | Microsoft Certified : PL-300 | DP-600 | DP-700
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-rafa37-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafa37)
 [![GitHub](https://img.shields.io/badge/GitHub-rafael--milanes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafael-milanes)
