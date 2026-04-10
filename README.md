@@ -298,8 +298,9 @@ ORDER BY masa_salarial DESC;
 
 ## 👤 Autor
 
-**rafa37** — Ingeniero Industrial | Data Analyst
+**Rafael Milanes** — Ingeniero Industrial | Data Analyst
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-rafa37-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafa37)
+[![GitHub](https://img.shields.io/badge/GitHub-rafael--milanes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafael-milanes)
 
 Si este repositorio te fue útil, déjale una ⭐ — ayuda a que más personas lo encuentren.
